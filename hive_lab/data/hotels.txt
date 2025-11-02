@@ -1,0 +1,10 @@
+1,Hotel Royal Mansour,5,Casablanca
+2,Hotel Sofitel,4,Rabat
+3,Hotel Kenzi Tower,5,Casablanca
+4,Hotel Farah,3,Marrakech
+5,Hotel Ibis,3,Casablanca
+6,Hotel Le Meridien,4,Rabat
+7,Hotel Movenpick,5,Marrakech
+8,Hotel Novotel,4,Casablanca
+9,Hotel Atlas,3,Fes
+10,Hotel Palais Medina,5,Fes

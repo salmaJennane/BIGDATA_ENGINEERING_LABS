@@ -1,0 +1,10 @@
+1,Mohammed Alami,m.alami@email.com,0612345678
+2,Fatima Benali,f.benali@email.com,0623456789
+3,Ahmed Tazi,a.tazi@email.com,0634567890
+4,Salma Idrissi,s.idrissi@email.com,0645678901
+5,Youssef Karam,y.karam@email.com,0656789012
+6,Leila Mansouri,l.mansouri@email.com,0667890123
+7,Omar Fassi,o.fassi@email.com,0678901234
+8,Nadia Bennani,n.bennani@email.com,0689012345
+9,Karim Zaki,k.zaki@email.com,0690123456
+10,Amina Rami,a.rami@email.com,0601234567
